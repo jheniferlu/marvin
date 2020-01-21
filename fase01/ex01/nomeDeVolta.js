@@ -1,7 +1,4 @@
-function mostrarNome() {
- console.log("Marvin");
-}
-function nomeDeVolta(){
-
-   return("O andróide paranóide")
+function nomeDeVolta() {
+ console.log("Marvin")
+ return("O andróide paranóide")
 }
