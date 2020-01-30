@@ -1,3 +1,4 @@
-function iniciais(palavra){
-  return ("mochileiro".substring(0, 3));
- }
+function iniciais(palavra) {
+    const palavras = palavra;
+    return palavra.substring(3,0)
+}
